@@ -1,4 +1,4 @@
-# Weather Forecasting using ML
+# SAFESKY - Weather Forecasting using Machine Learning
 
 Implementation of different machine learning techniques for weather forecasting.
 #### REST API
