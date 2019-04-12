@@ -1,8 +1,5 @@
-sklearn
+jupyter
+matplotlib
 numpy
 pandas
-matplotlib
-statsmodels
-seaborn
-keras
-jupyter
+sklearn
