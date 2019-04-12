@@ -17,6 +17,6 @@ The weather data of [New Delhi, INDIA](https://www.google.com/maps/place/New+Del
 #### HOW TO RUN
 1. Open terminal and execute command: `jupyter-notebook`.
 2. Browser window will open with directory structure.
-3. Navigate to particular directory(LSTM).
-4. Click to open the file `weatherforecast.ipynb`.
+3. Navigate to the directory.
+4. Open the file `weatherforecast.ipynb`.
 5. Click on run icon on top bar to execute the code.
