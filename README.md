@@ -1,7 +1,8 @@
 # SAFESKY - Weather Forecasting using Machine Learning
 
 #### REST API
-**url:** treetrails.herokuapp.com/machinelearning/weatherforecast/`2019-04-05`/<br>
+**project url:** [treetrails.herokuapp.com/machinelearning/weatherforecast/](https://treetrails.herokuapp.com/machinelearning/weatherforecast/)
+**api endpoint:** [treetrails.herokuapp.com/machinelearning/weatherforecast/`2019-04-05`/](https://treetrails.herokuapp.com/machinelearning/weatherforecast/2019-04-05/)<br>
 **returns:** `{"status": 200, "data": {"date": "2019-04-05", "tmin": 20.74581885355267, "tmax": 33.60100870778798, "tavg": 27.014038006528352}}`
 
 #### DATASET
